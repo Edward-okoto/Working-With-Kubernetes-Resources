@@ -170,7 +170,7 @@ The easiest way to access this services is to allow minikube to launch a web bro
             spec:
                 containers:
                 - name: my-nginx
-                  image: dareyregistry/my-nginx:1.0
+                  image: edwardokoto1/nginx:1.0
                   ports:
                   - containerPort: 80
 
