@@ -208,7 +208,7 @@ Lets break down the key components.
 
 `name`: The name of the container, which is my-nginx.
 
-`image`: The container image to use (dareyregistry/my-nginx:1.0).
+`image`: The container image to use (edwardokoto1/nginx:1.0).
 
 `ports`: List of ports to expose from the container.
 
